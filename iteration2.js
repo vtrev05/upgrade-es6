@@ -1,6 +1,6 @@
 //Iteration 2
 //2.1
-/* const game = {title: 'The last us 2', gender: ['action', 'zombie', 'survival'], year: 2020}
+const game = {title: 'The last us 2', gender: ['action', 'zombie', 'survival'], year: 2020}
 
 const {title, gender, year} = game;
 console.log(title,gender,year)
@@ -19,7 +19,7 @@ const animalFunction = () => {
     return {name: 'Bengal Tiger', race: 'Tiger'}
 };
 let {name, race} = animalFunction()
-console.log(name) */
+console.log(name)
 
 //2.4 En base al siguiente javascript, usa destructuring para crear las variables name y itv con sus respectivos valores. Posteriormente crea 3 variables usando igualmente el destructuring para cada uno de los años y comprueba que todo esta bien imprimiendolo.
 
